@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mostafa Hani</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)">
+<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)](https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafabinhani&label=Profile%20views&color=0e75b6&style=flat" alt="mostafabinhani" /> </p>
 
