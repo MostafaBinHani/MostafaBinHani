@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mostafa Hani</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mostafabinhani&label=Profile%20views&color=0e75b6&style=flat" alt="mostafabinhani" /> </p>
+
 <div align="center">
   <img alt="Coding" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafabinhani&label=Profile%20views&color=0e75b6&style=flat" alt="mostafabinhani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafabinhani" alt="mostafabinhani" /></a> </p>
 
